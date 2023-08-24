@@ -1,5 +1,5 @@
 
-img{
+#facepic{
     border-radius: 100%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
@@ -39,6 +39,17 @@ img{
 }
 .backg{
     background-image: url(../IMG/pattern.svg);
+    background-blend-mode:darken;
     background-size: cover;
     
+}
+.swip{
+    height: 10.5rem;
+    margin-top: 6.5rem;
+    opacity: 60%;
+}
+.swip div img{
+    width: 250px;
+    padding: 0.9rem;
+    margin: auto;
 }
