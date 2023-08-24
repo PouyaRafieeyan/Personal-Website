@@ -1,0 +1,44 @@
+
+img{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    width: 150px;
+    margin-top: 5.5rem;
+}
+.borders{
+    border-bottom: 0.05rem white solid;
+    padding-bottom: 0.1rem;
+}
+.box{
+    border: 0.1rem white solid;
+    border-radius: 100%;
+    padding: 0.5rem;
+}
+.email{
+    margin-right: 0.1rem;
+}
+.tag{
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.textp{
+    text-align: center;
+    margin-top: 1.2rem;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.face{
+    margin-right: 0.9rem;
+}
+.insta{
+    margin-right: 0.9rem;
+}
+.backg{
+    background-image: url(../IMG/pattern.svg);
+    background-size: cover;
+    
+}
