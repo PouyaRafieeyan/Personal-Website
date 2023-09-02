@@ -28,7 +28,7 @@
 }
 .textp{
     text-align: center;
-    margin-top: 1.2rem;
+    margin-top: 2.2rem;
     font-family: 'Bricolage Grotesque', sans-serif;
 }
 .face{
@@ -44,12 +44,13 @@
     
 }
 .swip{
-    height: 10.5rem;
-    margin-top: 6.5rem;
+    height: 7.5rem;
+    margin-top: 4.5rem;
     opacity: 60%;
 }
 .swip div img{
     width: 250px;
-    padding: 0.9rem;
+    padding: 2.5rem;
     margin: auto;
+
 }
