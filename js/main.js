@@ -25,3 +25,5 @@ function updateSliderPosition() {
 
 setInterval(nextSlide, 3000);
 
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
