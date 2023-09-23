@@ -30,6 +30,9 @@
     color: white;
     font-family: 'Bricolage Grotesque', sans-serif;
 }
+#p-2{
+    margin-bottom: 1.5rem;
+}
 .textp{
     text-align: center;
     margin-top: 2.5rem;
@@ -65,7 +68,7 @@
     padding: 2.5rem;
     margin: auto;
 }
-.tozih{
+.description{
     margin: 8rem;
     display: flex;
     align-items: center;
@@ -73,7 +76,7 @@
     font-family: 'Bricolage Grotesque', sans-serif;
     font-size: 1.7rem;
     text-align: center;
-    
+
 }
 #navbarNav{
     font-size: 1.6rem;
@@ -85,12 +88,7 @@
 .facee{
     margin-right: 1.5rem;
 }
-
-
-
 /* Responsive */
-
-
 @media (max-width: 991px){
     .resp{
         display: none;
@@ -101,9 +99,10 @@
     }
 }
 @media (max-width: 380px){
-    .tozih{
+    .description{
         font-size: 1.4rem;
     }
+
 }
 @media (max-width: 767px){
     .swip div img{
@@ -121,7 +120,7 @@
     .textp2{
         font-size: 26px;
     }
-    .tozih{
+    .description{
         font-size: 20px;
     }
     .instaa{
@@ -130,4 +129,8 @@
     .facee{
         margin-right: 1.8rem;
     }
+    #nav{
+        margin: 0rem 0.8rem 0rem 0.8rem;
+    }
+    
 }
